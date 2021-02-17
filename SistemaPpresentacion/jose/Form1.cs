@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SistemaPpresentacion.Mantenimientos
+namespace SistemaPpresentacion.jose
 {
-    public partial class mantenimientoVoucher : Form
+    public partial class Form1 : Form
     {
-        public mantenimientoVoucher()
+        public Form1()
         {
             InitializeComponent();
         }

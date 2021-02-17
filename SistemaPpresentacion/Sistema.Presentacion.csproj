@@ -58,11 +58,11 @@
     <Compile Include="FrmPrincipal.Designer.cs">
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
     </Compile>
-    <Compile Include="Mantenimientos\mantenimientoVoucher.cs">
+    <Compile Include="jose\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Mantenimientos\mantenimientoVoucher.Designer.cs">
-      <DependentUpon>mantenimientoVoucher.cs</DependentUpon>
+    <Compile Include="jose\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
